@@ -30,7 +30,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/l4c1f2r'
 global.syt = 'https://youtube.com/@Putra_Modz_'
 global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'https://chat.whatsapp.com/Ec0Mthvb1mpEcaGy1fmVao'
+global.sgc = 'https://chat.whatsapp.com/BvtBOFHOxg1BtnGzTb5Ii4'
 global.sdc = 'https://wa.me/6285770356017'
 global.swa = 'wa.me/6285770356017'
 global.swb = 'https://discord.gg/'
@@ -45,7 +45,7 @@ global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285795459908'
+global.nomorbot = '6285797923735'
 global.nomorown = '6285770356017'
 global.namebot = 'YaxuuBotz'
 global.nameown = 'KyyModz'
